@@ -1,0 +1,32 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>TCS Registration Form</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body >
+<h1 style="font-size:50px; text-align:center; color:red; font-family:verdana;"><u>TCS</u></h1>
+<p>Tata Consultancy Services (TCS) is an Indian multinational information technology (IT) services and consulting company with its headquarters in Mumbai.[6][7] It is a part of the Tata Group and operates in 149 locations across 46 countries.[8] In July 2022, it was reported that TCS had crossed 6 lakh or 600,000 Employees worldwide. [9] </p>
+<img src="https://tse4.mm.bing.net/th?id=OIP.T7uE2jZ5VhfXQDqVz_WB5QHaD4&pid=Api&P=0" alt="INFOSYS" style="width:300px;height:200px;">
+<h3 style="color:purple; font-size:40px;text-align:"center;">Online Application For TCS Exam</h3>
+<form style="font-size:23px;">
+Name:<input type="text"><br><br>
+Roll no:<input type="text"><br><br>
+Parent Details:<input type="text"><br><br>
+Aadhar Number:<input type="text"<br><br>
+<br>
+Address:<input type="text"<br><br>
+<br>
+Qualification:<br><br>
+<br>
+Courses completed:<br><br>
+<br>
+Xth CGPA:<input type="text"<br><br>
+<br>
+XIIth CGPA:<input type="text"<br><br>
+<br>
+<input type="button" value="upload resume"><br><br>
+<input type="button" value="upload photo"><br><br>
+<input style="color:blue;" type="submit">
+</body>
+</html>
